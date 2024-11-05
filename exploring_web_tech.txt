@@ -1,0 +1,24 @@
+1. Exploring Web Technologies and Python Programming
+Objective: 
+The aim of this assignment is to deepen your understanding and practical skills in web technologies and Python programming. You will explore 
+the functionalities of the World Wide Web, web architectures, and the Python programming language, particularly focusing on setting up 
+environments, API interactions, and data handling.
+
+Problem Statement: 
+You are tasked with creating a Python application that interfaces with a public API, fetches data, and processes it. This application should 
+provide insights into how different web architectures work and demonstrate your ability to set up a Python environment, make API requests, and 
+handle JSON data.
+
+Task 1: Setting Up a Python Virtual Environment and Installing Packages
+1. Create a new Python virtual environment in your project directory.
+2. Activate the virtual environment.
+3. Install the `requests` packages.
+
+Task 2: Fetching Data from the Pokémon API
+1. Write a Python script to make a GET request to the Pokémon API (`https://pokeapi.co/api/v2/pokemon/pikachu`).
+2. Extract and print the name and abilities of the Pokémon.
+
+Task 3: Analyzing and Displaying Data
+1. Modify the script to fetch data for three different Pokémon.
+2. Create a function to calculate and return the average weight of these Pokémon.
+3. Print the names, abilities, and average weight of the three Pokémon.
